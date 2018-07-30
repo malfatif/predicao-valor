@@ -7,6 +7,3 @@ Foi utilizado o Jupyter Notebook.
 Execução: Iniciar o Jupyter Notebook e abrir o arquivo POC.ipynb
 
 <b> Biblitocas: NumPy, Pandas, Matplotlib, scikit-learn </b>
-## Java
-Implementação: https://git-ungp.softplan.com.br/#/c/61994/
-<b> Bibliotecas: Commons-math </b>
